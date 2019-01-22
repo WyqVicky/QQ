@@ -1,0 +1,21 @@
+/* 
+  InfoPlist.strings
+  TrainingOne
+
+  Created by mac on 2019/1/17.
+  Copyright © 2019年 Vicky. All rights reserved.
+*/
+"me" = "Me";
+"homeInfo" = "Contacts";
+"weather" = "Weather";
+"spring" = "Spring";
+"summer" = "Summer";
+"fall" = "Fall";
+"winter" = "Winter";
+"umbrella" = "Umbrella";
+"userInfo" = "UserInfo";
+"doneButton" = "Done";
+"addressBook" = "HomeInfo";
+"backButton" = "Back";
+"details" = "Details";
+
